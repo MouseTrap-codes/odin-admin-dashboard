@@ -67,6 +67,21 @@
     border: 2px solid;
 }
 
+.content {
+    display: grid;
+    grid-template-columns: 3.5fr 1fr;
+    border: 2px solid;
+}
+
+.projects {
+    display: grid;
+    border: 2px solid;
+}
+
+.announcements {
+    display: grid;
+    border: 2px solid;
+}
 
 
 
